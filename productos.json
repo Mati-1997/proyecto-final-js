@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 100,
+    "id": 1,
+    "title": "Producto 1",
+    "thumbnailUrl": "https://picsum.photos/id/0/600"
+  },
+  {
+    "precio": 200,
+    "id": 2,
+    "title": "Producto 2",
+    "thumbnailUrl": "https://picsum.photos/id/10/600"
+  },
+  {
+    "precio": 300,
+    "id": 3,
+    "title": "Producto 3",
+    "thumbnailUrl": "https://picsum.photos/id/20/600"
+  },
+  {
+    "precio": 400,
+    "id": 4,
+    "title": "Producto 4",
+    "thumbnailUrl": "https://picsum.photos/id/30/600"
+  },
+  {
+    "precio": 500,
+    "id": 5,
+    "title": "Producto 5",
+    "thumbnailUrl": "https://picsum.photos/id/40/600"
+  },
+  {
+    "precio": 600,
+    "id": 6,
+    "title": "Producto 6",
+    "thumbnailUrl": "https://picsum.photos/id/50/600"
+  }
+]
